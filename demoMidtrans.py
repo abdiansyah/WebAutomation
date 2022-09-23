@@ -8,6 +8,8 @@ import time
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
+options.add_experimental_option('excludeSwitches', ['--headless'])
+options.add_experimental_option('excludeSwitches', ['--no-sandbox'])
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),options=options)
 driver.get("https://demo.midtrans.com/")
 driver.maximize_window
