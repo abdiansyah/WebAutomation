@@ -92,14 +92,14 @@ prometheus-client==0.14.1
 prompt-toolkit==3.0.31
 protobuf==3.20.1
 psutil==5.9.2
-psycopg2==2.9.3
-py==1.11.0
-py-healthcheck==1.10.1
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycparser==2.21
-Pygments==2.13.0
-PyHamcrest==2.0.3
+# psycopg2==2.9.3
+# py==1.11.0
+# py-healthcheck==1.10.1
+# pyasn1==0.4.8
+# pyasn1-modules==0.2.8
+# pycparser==2.21
+# Pygments==2.13.0
+# PyHamcrest==2.0.3
 #PyMySQL==1.0.2
 PyNaCl==1.5.0
 pyparsing==3.0.9
