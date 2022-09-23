@@ -109,12 +109,12 @@ PySocks==1.7.1
 pytest==7.1.2
 python-dateutil==2.8.2
 python-dotenv==0.20.0
-pytz==2022.1
-pywin32==304
-pywinpty==2.0.8
-pyzmq==24.0.0
-qtconsole==5.3.2
-QtPy==2.2.0
+# pytz==2022.1
+# pywin32==304
+# pywinpty==2.0.8
+# pyzmq==24.0.0
+# qtconsole==5.3.2
+# QtPy==2.2.0
 requests==2.27.1
 rfc3986==1.5.0
 # robot==20071211
